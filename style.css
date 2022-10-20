@@ -1,0 +1,151 @@
+
+body{
+    position:fixed;
+    width: 1280px;
+    height: 832px;
+    background: #FAD080;
+}
+
+
+img{
+position: absolute;
+width: 1138px;
+height: 460px;
+left: 24px;
+top: 300px;
+z-index: 10;
+}
+
+#a{
+    position: absolute;
+    width: 836px;
+    height: 1064px;
+    left:800px;
+    top: -150px;
+
+}
+#b{
+    position: absolute;
+    width: 580px;
+    height: 800px;
+    left: 430px;
+    top: 31px;
+    
+
+}
+
+.e12_37 { 
+position: absolute;
+width: 438px;
+height: 245px;
+left: -55px;
+top: -4px;
+
+background: #FFA857;
+mix-blend-mode: soft-light;
+box-shadow: 10px 10px 100px 10px rgba(151, 93, 26, 0.25);
+border-radius: 100px;
+}
+.e12_39 { 
+	
+position: absolute;
+width: 417px;
+height: 243px;
+left: 26px;
+top: 152px;
+
+background: #FFA895;
+mix-blend-mode: normal;
+box-shadow: 10px 10px 100px 10px rgba(151, 93, 26, 0.25);
+border-radius: 100px;
+}
+
+.e12_42 { 
+
+    position: absolute;
+    width: 462px;
+    height: 269px;
+    left: -55px;
+    top: 594px;
+    
+    background: #FFA857;
+    mix-blend-mode: soft-light;
+    box-shadow: 10px 10px 100px 10px rgba(151, 93, 26, 0.25);
+    border-radius: 100px;
+
+}
+.e12_40 { 
+    position: absolute;
+    width: 392px;
+    height: 210px;
+    left: 814px;
+    top: 31px;
+    
+    background: rgba(255, 168, 149, 0.8);
+    mix-blend-mode: normal;
+    box-shadow: 10px 10px 100px 10px rgba(151, 93, 26, 0.25);
+    border-radius: 100px;
+}
+.e12_41 { 
+	
+position: absolute;
+width: 404px;
+height: 251px;
+left: 941px;
+top: 214px;
+
+background: #753D0A;
+mix-blend-mode: soft-light;
+box-shadow: 10px 10px 100px 10px rgba(151, 93, 26, 0.25);
+border-radius: 100px;
+}
+.e12_38 { 
+
+    position: absolute;
+    width: 434px;
+    height: 268px;
+    left: 846px;
+    top: 595px;
+    
+    background: rgba(250, 255, 0, 0.8);
+    mix-blend-mode: soft-light;
+    box-shadow: 10px 10px 100px 10px rgba(151, 93, 26, 0.25);
+    border-radius: 100px;
+}
+
+
+#certificate{
+    position: absolute;
+width: 924px;
+height: 588px;
+left: 70px;
+top: 122px;
+}
+
+#photo{
+    position: absolute;
+width: 710px;
+height: 1100px;
+left: 902.84px;
+top: -11px;
+transform: rotate(6.67deg);
+}
+
+#smile{
+
+position: absolute;
+width: 878px;
+height: 1172px;
+left: 500px;
+top: -400px;
+}
+
+#text{
+    position: absolute;
+width: 760.15px;
+height: 287.01px;
+left: 350px;
+top: 88px;
+
+}
+
